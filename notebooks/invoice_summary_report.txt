@@ -1,0 +1,45 @@
+=== INVOICE EXTRACTION REPORT ===
+
+--- INVOICE METADATA ---
+Invoice Number: 51109338
+Invoice Date: 04/13/2013
+
+--- SELLER DETAILS ---
+Name: Andrews, Kirby and Valdez
+Street: 58861 Gonzalez Prairie
+City: Lake Daniellefurt
+Tax_id: 945-82-2137
+Iban: GB75MCRL06841367619257
+Zip: 58861
+State: IN
+
+--- CLIENT DETAILS ---
+Organization: Becker Ltd
+Street: 8012 Stewart Summit Apt. 455
+City: North Douglas
+Tax_id: 942-80-0517
+Zip: 95355
+State: AZ
+
+--- EXTRACTED ITEMS ---
+ID: 1. | Cat: Hardware Device | Desc: CLEARANCE! Fast Dell Desktop Computer PC DUAL CORE WINDOWS 10 4/8/16GB RAM
+Qty: 3,00 each | Net: 209,00 | Worth: 627,00
+----------------------------------------
+ID: 2. | Cat: Hardware Device | Desc: HP T520 Thin Client Computer AMD GX-212JC 1.2GHz 4GB RAM TESTED !!READ BELOW!!
+Qty: 5,00 each | Net: 37,75 | Worth: 188.75
+----------------------------------------
+ID: 3. | Cat: Hardware Device | Desc: gaming pc desktop computer
+Qty: 1,00 each | Net: 400,00 | Worth: 400,00
+----------------------------------------
+ID: 4. | Cat: Hardware Device | Desc: 12-Core Gaming Computer Desktop PC Tower Affordable GAMING PC 8GB AMD Vega RGB
+Qty: 3,00 each | Net: 464,89 | Worth: 1 394,67
+----------------------------------------
+ID: 5. | Cat: Hardware Device | Desc: Custom Build Dell Optiplex 9020 MT i5-4570 3.20GHz Desktop Computer PC
+Qty: 5,00 each | Net: 221,99 | Worth: 1 109,95
+----------------------------------------
+ID: 6. | Cat: Hardware Device | Desc: Dell Optiplex 990 MT Computer PC Quad Core 17 3.4GHz 16GB 2T8 HD Windows 10 Pro Dell Core 2 Duo Desktop
+Qty: 4,00 each | Net: 269,95 | Worth: 1 079.80
+----------------------------------------
+ID: 7. | Cat: Hardware Device | Desc: Computer | Windows XP Pro | 4GB | 500GB
+Qty: 5,00 each | Net: 168,00 | Worth: 840.00
+----------------------------------------
